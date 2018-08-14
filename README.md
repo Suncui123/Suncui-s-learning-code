@@ -1,2 +1,1 @@
-# Suncui-s-learning-code
-for leaining note
+# Machine Learning Note
